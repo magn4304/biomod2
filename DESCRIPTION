@@ -1,4 +1,4 @@
-Package: biomod2_patchMFA
+Package: biomod2MFA
 Type: Package
 Title: Ensemble Platform for Species Distribution Modeling
 Version: 4.2-6-2
